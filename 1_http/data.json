@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Emelda",
+        "last_name": "Le Count",
+        "email": "elecount0@springer.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Jerome",
+        "last_name": "Aime",
+        "email": "jaime1@fc2.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Brinna",
+        "last_name": "Vossing",
+        "email": "bvossing2@uiuc.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Viva",
+        "last_name": "Cusack",
+        "email": "vcusack3@amazon.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Celle",
+        "last_name": "Strute",
+        "email": "cstrute4@godaddy.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Catrina",
+        "last_name": "Howerd",
+        "email": "chowerd5@dedecms.com",
+        "gender": "Bigender"
+    },
+    {
+        "id": 7,
+        "first_name": "Kari",
+        "last_name": "Heild",
+        "email": "kheild6@seesaa.net",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Melony",
+        "last_name": "Thumann",
+        "email": "mthumann7@uol.com.br",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Sandye",
+        "last_name": "Giacubo",
+        "email": "sgiacubo8@wunderground.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Bryan",
+        "last_name": "Gyngyll",
+        "email": "bgyngyll9@wsj.com",
+        "gender": "Male"
+    }
+]
